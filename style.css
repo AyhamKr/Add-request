@@ -1,0 +1,40 @@
+body{
+    background-color: #f5a;
+
+}
+
+.min{
+    width:600px;
+	height:900px;
+padding:25px;
+margin:auto;
+font-family:arial;
+background-color:lightgray;
+margin-top:50px;
+border:5px solid gray;
+
+}
+.inp1{
+    margin-right: 80px;
+}
+
+.R{
+    text-align: center;
+
+    color: red;
+}.tt{
+		height:300px;
+
+}
+.div{
+	height:300px;
+}
+.table{
+	width:600px;
+}
+#json{
+	width:250px;
+}
+tbody:{
+	height:300px;
+}
